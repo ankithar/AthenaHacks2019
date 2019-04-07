@@ -1,4 +1,5 @@
 ![alt text](https://i.imgur.com/ltNNDqT.png)
+
 EasyEats is a personalized recipe app that suggests recipes based on the ingredients you have in your refrigerator. 
 
 ## What it Does
