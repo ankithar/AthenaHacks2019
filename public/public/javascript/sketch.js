@@ -34,7 +34,7 @@ function setup() {
   mobilenet = ml5.featureExtractor('MobileNet', modelReady);
   classifier = mobilenet.classification(video, videoReady);
 
-  carrot = createButton('carrot');
+  /* carrot = createButton('carrot');
   carrot.mousePressed(function () {
     classifier.addImage('carrot');
   });
@@ -75,6 +75,11 @@ function setup() {
   saveButton = createButton('save');
   saveButton.mousePressed(function () {
     classifier.save();
+  });*/
+
+getReceipe = createButton('Get Recipe');
+  getReceipe.mousePressed(function () {
+  console.log(model_classes);
   });
 }
 
