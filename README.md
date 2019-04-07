@@ -10,9 +10,9 @@ EasyEats uses a object detection model through ML5.js to detect different vegeta
 
 
 ## Authors
-Mounica Naidu Manyam
-Ankitha Radhakrishna
-Pooja Senthil Kumar
+Mounica Naidu Manyam |
+Ankitha Radhakrishna |
+Pooja Senthil Kumar |
 Shilpi Singh
  
 
